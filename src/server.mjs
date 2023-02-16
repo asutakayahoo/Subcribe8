@@ -360,7 +360,6 @@ new SocketClient('yfiusdt', 37, 3780000);
 new SocketClient('yggusdt', 38, 3785000); 
 new SocketClient('zecusdt', 39, 3790000); 
 new SocketClient('zenusdt', 40, 3795000); 
-new SocketClient('zilusdt', 40, 3795500); 
-new SocketClient('zrxusdt', 40, 3796000); 
+
 
 
